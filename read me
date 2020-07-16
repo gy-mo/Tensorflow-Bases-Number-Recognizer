@@ -1,0 +1,3 @@
+A deep mearning model which takes as input images of hand written digits and and classifies them as one among 0-9.
+Tensorflow is used to neural net with 300 hidden layers, 'Relu' and 'softmax' activation.
+Accuracy of 98.4 %
